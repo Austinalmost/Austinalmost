@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Austinalmost
 - 👀 I’m interested in learning and coding using python and JavaScript.
-- 🌱 I’m currently studying at UJ.
-- 💞️ I’m looking to collaborate on python programming.
+- 🌱 I’m currently studying coding with Codespace.
+- 💞️ I’m looking to collaborate on programming and learn new notions and skills.
 - 📫 Reach me on WhatsApp: 065 693 6477.
 - 😄 I am a male.
 - ⚡ Fun fact: I like making and playing games.
