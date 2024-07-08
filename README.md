@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Austinalmost
+- 👋 Hi, I’m Omolemo Tlomatsane
 - 👀 I’m interested in learning and coding using python and JavaScript.
 - 🌱 I’m currently studying coding with Codespace.
 - 💞️ I’m looking to collaborate on programming and learn new notions and skills.
